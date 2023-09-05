@@ -9,3 +9,5 @@
 - Pure Fabrication — не стесняемся создавать классы, не имеющие аналог в предметной области, если это необходимо для соблюдения Low Coupling и High Cohesion.
 - Indirection — любой класс вызываем через его интерфейс.
 - Protected Variations — применяя все вышесказанное, получаем устойчивый к изменениям код.
+
+https://www.youtube.com/watch?v=Kp1nfw0LDXc
